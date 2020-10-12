@@ -8,6 +8,7 @@ int main()
 	std::cout << "Hello World!" << std::endl;
 	std::cout << "Practice Git Start" << std::endl;
 	std::cout << "branch : Dev" << std::endl;
+	std::cout << "branch : Master" << std::endl;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
